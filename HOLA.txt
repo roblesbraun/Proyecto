@@ -1,1 +1,2 @@
-HOLA
+npx tailwindcss build src/styles/tailwind.css -o src/styles/main.css
+comando para actualizar el tailwind
